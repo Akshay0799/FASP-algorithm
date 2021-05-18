@@ -11,7 +11,7 @@ Most of the existing migration strategies are complex in nature that results in 
 
 ## Comparison of FASP performance in various datasets
 
-** The result is represented as the percentage improvement between the initial
+**The result is represented as the percentage improvement between the initial
 distance and final distance in the following graphs for 2 different cases respectively**
 
 
