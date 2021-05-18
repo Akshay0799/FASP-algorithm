@@ -1,5 +1,8 @@
 # FASP-algorithm
-Source code for the Inderscience paper titled "Favourable subpopulation migration strategy for Travelling salesman problem" 
+**Source code for the Inderscience paper titled "Favourable subpopulation migration strategy for Travelling salesman problem"**
+
+**Datasets used for the experiment can be found in the Repository**
+
 
 ## Abstract
 Most of the existing migration strategies are complex in nature that results in high computation time. Since the introduction of parallel genetic algorithms, they are known for obtaining better optimal solutions at the cost of more computation. Migration has played a significant role in maintaining genetic diversity of the population.  This paper aims to propose a new migration strategy that improves the performance of the parallel genetic algorithm and assess its behaviour under various Travelling Salesman Problem datasets. The algorithm is based on an island model approach where one subpopulation is nurtured by the other subpopulations by taking turns during the migration process to progressively reach the optimal solution. In turn, the nurtured subpopulation provides a feedback loop to the subpopulation with poor fitness value based on certain criterias to be met. An extensive study was conducted to understand the optimal parameters values in which the proposed algorithm works best.
