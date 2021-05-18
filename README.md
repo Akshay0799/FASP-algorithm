@@ -18,14 +18,13 @@ distance and final distance in the following graphs for 2 different cases respec
 ### Percentage Improvement by varying the number of Generations
 
 
-![image](https://user-images.githubusercontent.com/30732059/118699807-99e7a180-b82f-11eb-87a7-bcb7cc1a6e8b.png "Percentage Improvement by varying the number of Generations")
-
-
+<img src="https://user-images.githubusercontent.com/30732059/118699807-99e7a180-b82f-11eb-87a7-bcb7cc1a6e8b.png" width="800">
 
 ### Percentage Improvement by varying the Migration Interval
 
 
-![image](https://user-images.githubusercontent.com/30732059/118699628-5e4cd780-b82f-11eb-8d02-bbeebc61b539.png)
+<img src="https://user-images.githubusercontent.com/30732059/118699628-5e4cd780-b82f-11eb-8d02-bbeebc61b539.png" width="800">
+
 
 #### _For a detailed analysis, refer our paper : https://dx.doi.org/10.1504/ijbidm.2022.10035424_
 The base code for the Genetic algorithm was implemented from [here](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
