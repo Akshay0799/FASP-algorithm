@@ -7,7 +7,7 @@ Source code for the Inderscience paper titled "Favourable subpopulation migratio
 ## Comparison of FASP performance in various datasets
 
 **Percentage Improvement by varying the number of Generations**
-![image](https://user-images.githubusercontent.com/30732059/118699673-6e64b700-b82f-11eb-8787-fccf63b4f2a4.png)
+![image](https://user-images.githubusercontent.com/30732059/118699807-99e7a180-b82f-11eb-87a7-bcb7cc1a6e8b.png)
 
 
 
