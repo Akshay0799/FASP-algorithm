@@ -1,7 +1,6 @@
 # FASP-algorithm
-**Source code for the Inderscience paper titled "Favourable subpopulation migration strategy for Travelling salesman problem"**
+**Source code and related datasets for the Inderscience paper titled "Favourable subpopulation migration strategy for Travelling salesman problem"**
 
-**Datasets used for the experiment can be found in the Repository**
 
 
 ## Abstract
